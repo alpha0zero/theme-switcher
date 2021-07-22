@@ -1,2 +1,2 @@
-# theme-switcher
+# theme-tutorial
 Created with CodeSandbox
